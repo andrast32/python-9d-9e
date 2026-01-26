@@ -6,7 +6,7 @@ print("tinggi badan anda ", tinggi)
 
 bmi = berat / (tinggi ** 2)
 
-print ("bmi anda", bmi)
+print ("bmi anda", round(bmi , 2))
 
 if bmi < 18.5 :
       print ("ANDA KURUS")
