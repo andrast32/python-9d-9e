@@ -5,3 +5,5 @@ introduction to python coding -> perkenalan -> installasi python -> ide untuk co
 
 Senin - 26 Januari 2026
 Aritmatika dan Operasi Dasar -> operator aritmatika (penjumlahan, pengurangan, perkalian, pembagian) -> latihan membuat kalkulator BMI sederhana
+
+Senin - 1 Februari 2026
