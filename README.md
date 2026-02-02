@@ -7,3 +7,4 @@ Senin - 26 Januari 2026
 Aritmatika dan Operasi Dasar -> operator aritmatika (penjumlahan, pengurangan, perkalian, pembagian) -> latihan membuat kalkulator BMI sederhana
 
 Senin - 2 Februari 2026
+Pengkondisian -> memahami konsep percabangan (if, elif, else) -> menggunakan percabangan untuk mengklasifikasikan data -> membuat program sederhana untuk menentukan kategori umur -> operator perbandingan ==, !=, >, <, >=, <= -> operator logika and, or, not
