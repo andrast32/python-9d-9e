@@ -8,3 +8,6 @@ Aritmatika dan Operasi Dasar -> operator aritmatika (penjumlahan, pengurangan, p
 
 Senin - 2 Februari 2026
 Pengkondisian -> memahami konsep percabangan (if, elif, else) -> menggunakan percabangan untuk mengklasifikasikan data -> membuat program sederhana untuk menentukan kategori umur -> operator perbandingan ==, !=, >, <, >=, <= -> operator logika and, or, not
+
+senin - 20 April 2026
+fungsi def -> memahami konsep fungsi -> membuat fungsi sederhana untuk menghitung luas dan keliling lingkaran -> penggunaan parameter dan return value
